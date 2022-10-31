@@ -16,7 +16,7 @@
 7. Langkah selanjutnya kita mulai membuat program mencari luas dan keliling lingkaran <br>
 8. Kita buat flowchart nya seperti ini <br>
 ![gambar 4](Screenshot/flowchart.png) <br>
-9. Dan kita buat program nya seperti ini
+9. Dan kita buat program nya seperti ini <br>
 ![gambar 5](Screenshot/ss3.png) <br>
 10. Lalu kita print programnya <br>
 ![gambar 6](Screenshot/ss4.png) <br>
